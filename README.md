@@ -1,4 +1,4 @@
-# AI Bingo Grid
+# AI Bingo Grid hi
 
 前端：Vite + React + TypeScript  
 数据库与认证：Supabase  
