@@ -6,7 +6,7 @@ import TaskSetup from "@/components/TaskSetup";
 import BingoBoard from "@/components/BingoBoard";
 import BingoCalendar from "@/components/BingoCalendar";
 import BottomNav from "@/components/BottomNav";
-import { BingoGame, getTodayGame } from "@/lib/bingo-utils";
+import { BingoGame, getTodayGame } from "../lib/bingo-utils";
 import { useLocale, Locale } from "@/lib/i18n";
 import { useAuth } from "@/hooks/useAuth";
 
